@@ -1,0 +1,77 @@
+body{
+    font-family: 'Playpen Sans', cursive;
+    background-color: rgb(245, 220, 245);
+}
+
+.logop{
+    width: 100px;
+    height: 100px;
+}
+a{
+    text-decoration: none;
+}
+.nav1{
+background-color: #f380f7;
+height: 150px;
+}
+
+.nav1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+
+.a:hover{
+    color: (255, 0, 208)
+}
+
+.a11{
+    background-color: rgb(255, 181, 233);
+}
+
+.a22{
+    background-color: rgb(255, 181, 233);
+}
+
+.a33{
+    background-color: rgb(255, 181, 233);
+}
+
+.general-card1{
+    width: 100%;
+    background-color:rgb(255, 181, 233);
+    position: relative;
+}
+
+.general-card2{
+    width: 100%;
+    background-color:rgb(255, 181, 233);
+    position: relative;
+}
+
+.general-card3{
+    width: 100%;
+    background-color:rgb(255, 181, 233);
+    position: relative;
+}
+
+.general-card4{
+    width: 100%;
+    background-color:rgb(255, 181, 233);
+    position: relative;
+}
+
+.foto{
+    width: 100px;
+    height: 100px;
+}
